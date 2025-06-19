@@ -1,0 +1,1 @@
+<svg width="200" height="100"><line x1="10" y1="50" x2="50" y2="50" stroke="black" /><polyline points="50,50 60,40 70,60 80,40 90,60 100,40 110,60 120,50" fill="none" stroke="black"/><line x1="120" y1="50" x2="190" y2="50" stroke="black"/></svg>
